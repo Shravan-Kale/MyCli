@@ -1,0 +1,29 @@
+{
+  "application": {
+    "username": "",
+    "frontendUrl": "",
+    "backendUrl": ""
+  },
+  "keycloak": {
+    "hostname": "",
+    "cert": {
+      "path": "",
+      "password": ""
+    }
+  },
+  "vault": {
+    "hostname": "",
+    "cert": {
+      "path": "",
+      "password": ""
+    }
+  },
+  "openfga": {
+    "datastore": {
+      "engine": "",
+      "url": ""
+    },
+    "http_addr": "",
+    "grpc_addr": ""
+  }
+}
