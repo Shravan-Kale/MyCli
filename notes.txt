@@ -1,0 +1,9 @@
+put spinner for each tool run and setup with a runner spinner. Give specific message like running keycloak or setting up keycloak
+
+rules can be user to seperate the tools and their setup
+
+Error_console can be used to display errors (for later user)
+
+Use styles for console print
+
+Use text to ask for user input
